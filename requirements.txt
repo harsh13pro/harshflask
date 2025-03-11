@@ -63,7 +63,7 @@ certipy-ad==4.8.2
 cffi==1.17.1
 chardet==5.2.0
 charset-normalizer==3.4.0
-cheroot==10.0.1+ds1
+cheroot==10.0.1
 CherryPy==18.10.0
 cherrypy-cors==1.6
 cli_helpers==2.3.1
